@@ -1,10 +1,10 @@
 {
-  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$schema": "https://github.com/awhersi/scripts/blob/main/starship_schema.json",
   "title": "FullConfig",
   "type": "object",
   "properties": {
     "$schema": {
-      "default": "https://starship.rs/config-schema.json",
+      "default": "https://github.com/awhersi/scripts/blob/main/starship_schema.json",
       "type": "string"
     },
     "aws": {
