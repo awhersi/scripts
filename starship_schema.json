@@ -9,7 +9,7 @@
     },
     "aws": {
       "default": {
-        "disabled": false,
+        "disabled": true,
         "expiration_symbol": "X",
         "force_display": false,
         "format": "on [$symbol($profile )(\\($region\\) )(\\[$duration\\] )]($style)",
